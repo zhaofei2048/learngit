@@ -7,5 +7,5 @@ add
 new add
 new add 1
 add to dev
-Creating a new branch is simple & quick.
-This is master branch
+create a new branch is simple and quick.
+this is my branch.
