@@ -16,3 +16,4 @@ Does user1 know I add something new
 comment
 author
 start test rebase
+user2:rebase
