@@ -7,5 +7,4 @@ add
 new add
 new add 1
 add to dev
-create a new branch is simple and quick.
-this is my branch.
+just delete to solve the conflict
