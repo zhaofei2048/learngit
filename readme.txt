@@ -7,4 +7,5 @@ add
 new add
 new add 1
 add to dev
-just delete to solve the conflict
+No, you didn't solve the coflict.
+when I'm on branch dev2, I add something new to this file and modify the sentence below.
