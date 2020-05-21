@@ -15,4 +15,6 @@ user1 add another
 Does user1 know I add something new
 comment
 author
+user1:test git rebase
+user2:test git rebase
 
