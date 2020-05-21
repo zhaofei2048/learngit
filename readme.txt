@@ -7,3 +7,4 @@ add
 new add
 new add 1
 add to dev
+Creating a new branch is simple & quick.
